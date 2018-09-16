@@ -10,3 +10,7 @@ Prevelance of Sugar consumption daily by state and education.  Source CDC 2003: 
 
 * [Sugar Consumption](https://colab.research.google.com/drive/17gxkpD6gSvyCNdF8-fmHL8xmGwar6DGa)
 
+## Kaggle 
+
+* [Kaggle Kernel](https://www.kaggle.com/noahgift/sugar-relationships-exploration-cdc-2003)
+* [Kaggle Dataset](https://www.kaggle.com/noahgift/sugar-relationships-exploration-cdc-2003/data)
