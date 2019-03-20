@@ -5,6 +5,7 @@ Prevelance of Sugar consumption daily by state and education.  Source CDC 2003: 
 
 ![sugar](https://user-images.githubusercontent.com/58792/45598720-501acf00-b995-11e8-8bda-8f32f7284393.png)
 
+![Strata2019](https://noahgift.com/img/strataconf_svg_logo.svg)
 
 ## Colab Notebooks
 
