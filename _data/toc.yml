@@ -26,6 +26,10 @@
   url: /intro
   not_numbered: true
 
+- title: References
+  url: /references
+  not_numbered: true
+
 # External link
 - title: GitHub repository
   url: https://github.com/noahgift/sugar
