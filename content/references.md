@@ -11,3 +11,5 @@
 * [Using data to make the most of automation, IIoT and AI on the manufacturing line](https://www.foodengineeringmag.com/articles/98096-using-data-to-make-the-most-of-automation-iiot-and-ai-on-the-manufacturing-line)
 
 * [Your Avocados and Olives Are Pricier Because Fat Is In Fashion](https://www.wsj.com/articles/your-avocados-and-olives-are-pricier-because-fat-is-in-fashion-11551090603)
+
+* [John Yudkin:  the main who tried to warn us about sugar](https://www.telegraph.co.uk/lifestyle/wellbeing/diet/10634081/John-Yudkin-the-man-who-tried-to-warn-us-about-sugar.html)
