@@ -30,3 +30,9 @@ serve:
 site:
 	bundle exec jekyll build
 	touch _site/.nojekyll
+
+all:
+	make book
+	git add *
+	git commit -m "adding book updated"
+	git push
